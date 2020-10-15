@@ -1,3 +1,3 @@
 # my_works  
   
-These are my projects from the data analysis course.
+Здесь представлены мои работы, выполненные на курсе Аналитик Данных.
